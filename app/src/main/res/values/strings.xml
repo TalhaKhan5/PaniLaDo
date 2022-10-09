@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pani La Do</string>
+
+    <string name="supplier_name">Supplier</string>
+    <string name="consumer_name">Consumer</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="goto_login">Already have an account? <u>Login here</u></string>
+
+</resources>
